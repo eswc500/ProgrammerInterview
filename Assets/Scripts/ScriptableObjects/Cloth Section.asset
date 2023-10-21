@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b22b14212cfda45ab27e64755e6a7d, type: 3}
+  m_Name: Cloth Section
+  m_EditorClassIdentifier: 
+  Cloth_section:
+  - Cloth_section_name: Up
+    Cloth_section_icon: {fileID: 21300000, guid: ada14db9146f99848980d298c5fb65e8, type: 3}
+    Cloth_section_items:
+    - Cloth_name: Bob Style
+      Cloth_price: 10
+      Cloth_icon: {fileID: 21300000, guid: 445611c4028d7de44bc888fadd1e6f76, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 1, g: 1, b: 1, a: 1}
+        cloth_anima_iddle: {fileID: 925808734, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: 166529277, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -1151864065, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -1547078174, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -312796531, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: -1512897929, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -1677684266, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -1456947387, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -70909650, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: 632692126, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -1308496016, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: 1552674663, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+        - {fileID: -222118525, guid: 1bb9e24ff268c714e905705938222559, type: 3}
+      isBought: 0
+    - Cloth_name: Dapper Red
+      Cloth_price: 15
+      Cloth_icon: {fileID: 21300000, guid: 3d0d69b7813bc814db61a4535ca07337, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 1, g: 0.3254717, b: 0.3254717, a: 1}
+        cloth_anima_iddle: {fileID: 1645693577, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: -828257976, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1457795957, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: 1755751658, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: 1197319518, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: -1973837107, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -2022579118, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1120966285, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1364084740, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: 41224579, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: 857219864, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1132880176, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1495756345, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+      isBought: 0
+    - Cloth_name: Dapper Green
+      Cloth_price: 20
+      Cloth_icon: {fileID: 21300000, guid: 4748062ed9ffd904cbe4d91275a6de57, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 0.16509432, g: 1, b: 0.58179075, a: 1}
+        cloth_anima_iddle: {fileID: 1645693577, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: -828257976, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1457795957, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: 1755751658, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: 1197319518, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: -1973837107, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -2022579118, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1120966285, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1364084740, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: 41224579, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: 857219864, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1132880176, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+        - {fileID: -1495756345, guid: 1ac42f1895d04ef419a61dafb7d2a811, type: 3}
+      isBought: 0
+    - Cloth_name: Cowboy Hat
+      Cloth_price: 50
+      Cloth_icon: {fileID: 21300000, guid: a97c70deefd72d74ea4035f4d633c830, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 1, g: 1, b: 1, a: 1}
+        cloth_anima_iddle: {fileID: -1633328772, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: 1761181383, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: -1004964761, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: -745493240, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: 1577851894, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: 727846406, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: 2075232978, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: -1737177662, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: -478599444, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: 152427618, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: 1493267073, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: -379957571, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+        - {fileID: -1448736104, guid: 014aea3a2c6c7ca4084913a3f141f8bc, type: 3}
+      isBought: 0
+  - Cloth_section_name: Mid
+    Cloth_section_icon: {fileID: 21300000, guid: 698ec72ab7cd465479a9ff4be5167085, type: 3}
+    Cloth_section_items:
+    - Cloth_name: 
+      Cloth_price: 0
+      Cloth_icon: {fileID: 0}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 0, g: 0, b: 0, a: 0}
+        cloth_anima_iddle: {fileID: 0}
+        cloth_anima_sprites_down: []
+        cloth_anima_sprites_up: []
+        cloth_anima_sprites_right: []
+      isBought: 0
+    - Cloth_name: Green Shirt
+      Cloth_price: 40
+      Cloth_icon: {fileID: 21300000, guid: 199d98f3a6fb69941bfd27b3fd74b703, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 1, g: 0, b: 0.8163533, a: 1}
+        cloth_anima_iddle: {fileID: -361450386, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: -1353238609, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -1353358170, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -836412275, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -258623530, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: -2063190265, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: 343756787, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: 91699592, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -369106814, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: -361882031, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -1678286378, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -1423051311, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+        - {fileID: -808659018, guid: f4dae3e1ad4259849b9e3c1a52e04f2e, type: 3}
+      isBought: 0
+  - Cloth_section_name: Down
+    Cloth_section_icon: {fileID: 21300000, guid: 461309441d9389b4887881c9587effa3, type: 3}
+    Cloth_section_items:
+    - Cloth_name: Long Pants
+      Cloth_price: 10
+      Cloth_icon: {fileID: 21300000, guid: bf9db6959f8cf4c4dbb94bf7207bc1cc, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 1, g: 1, b: 1, a: 1}
+        cloth_anima_iddle: {fileID: -858525421, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: 1290579581, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 370629161, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -2038280570, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -1182226604, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: -170997525, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 46978925, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -283515384, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 895543415, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: -662658610, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 1908645701, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -928463476, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -412690270, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+      isBought: 0
+    - Cloth_name: Pink Pants
+      Cloth_price: 20
+      Cloth_icon: {fileID: 21300000, guid: 8df252d0d024d2d41a1d090e1fea8426, type: 3}
+      Cloth_anima_sprites:
+        cloth_anima_tint: {r: 1, g: 0, b: 0.8640461, a: 1}
+        cloth_anima_iddle: {fileID: -858525421, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        cloth_anima_sprites_down:
+        - {fileID: 1290579581, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 370629161, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -2038280570, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -1182226604, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        cloth_anima_sprites_up:
+        - {fileID: -170997525, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 46978925, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -283515384, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 895543415, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        cloth_anima_sprites_right:
+        - {fileID: -662658610, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: 1908645701, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -928463476, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+        - {fileID: -412690270, guid: d1ea04189d4c5744b9888092f8e08b37, type: 3}
+      isBought: 0
